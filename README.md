@@ -13,6 +13,6 @@ Perform document classification into four defined categories (World, Sports, Bus
 
 
 ### The model can be downloaded from below link.
-https://drive.google.com/drive/folders/10Ivt175DEkILxwHsF2Ltti8IZpVLtOyo?usp=sharing
+https://drive.google.com/drive/u/0/folders/1iNwYWf5P_UhE4uOBmHDLKzbFrJuylQJf
 
 #### The jupyter file also demonstrates loading and using the model for real-time predictions
